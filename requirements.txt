@@ -1,0 +1,9 @@
+numpy
+opencv-python
+pandas
+matplotlib
+Pillow
+torch
+torchvision
+segment-anything
+scikit-learn

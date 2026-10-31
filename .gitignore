@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Mac
+.DS_Store
+
+# Dataset and large model files
+data/raw/
+data/video/
+models/*.pth
+models/*.pt
+
+# Generated outputs
+outputs/
+
+# IDE
+.vscode/
+.idea/
